@@ -1,3 +1,13 @@
+## E-Commerce Full Stack using Firebase
+
+The [deployed project](https://e-commerce-2fdd5.web.app).
+
+## WARNING
+
+Do not use your real credit or debit card, use this test card (use 4242 4242 4242 ----)
+
+## ---------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +76,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# e-commerce
